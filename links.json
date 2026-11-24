@@ -1,0 +1,141 @@
+{
+ "by_n": {
+  "16": {
+   "name": "craft-anything",
+   "url": "https://github.com/storytold/craft-anything",
+   "install": "cargo install --path apps/craft-anything-cli"
+  },
+  "21": {
+   "name": "diagram-design",
+   "url": "https://github.com/cathrynlavery/diagram-design",
+   "install": "npx skills add cathrynlavery/diagram-design"
+  },
+  "20": {
+   "name": "firecrawl",
+   "url": "https://github.com/firecrawl/firecrawl",
+   "install": "cargo install firecrawl-local"
+  },
+  "19": {
+   "name": "last30days",
+   "url": "https://github.com/mvanhorn/last30days-skill",
+   "install": "npx skills add mvanhorn/last30days-skill -g"
+  },
+  "14": {
+   "name": "open-code-review",
+   "url": "https://github.com/alibaba/open-code-review",
+   "install": "npm install -g @alibaba-group/open-code-review"
+  },
+  "18": {
+   "name": "superpowers",
+   "url": "https://github.com/obra/superpowers",
+   "install": "/plugin install superpowers@claude-plugins-official"
+  }
+ },
+ "by_code": {
+  "DfpNzPqhke-": {
+   "name": "agent-browser",
+   "url": "https://github.com/vercel-labs/agent-browser",
+   "install": "npm install -g agent-browser && agent-browser install"
+  },
+  "Dfxnsd6mZnO": {
+   "name": "skills",
+   "url": "https://github.com/anthropics/skills",
+   "install": "/plugin marketplace add anthropics/skills"
+  },
+  "Dfs4K0AIGCj": {
+   "name": "claude-mem",
+   "url": "https://github.com/thedotmack/claude-mem",
+   "install": "npx claude-mem install --provider claude"
+  },
+  "Df76ziXmZFH": {
+   "name": "craft-anything",
+   "url": "https://github.com/storytold/craft-anything",
+   "install": "cargo install --path apps/craft-anything-cli"
+  },
+  "DgIy1RaDdf2": {
+   "name": "diagram-design",
+   "url": "https://github.com/cathrynlavery/diagram-design",
+   "install": "npx skills add cathrynlavery/diagram-design"
+  },
+  "DfpdcWqFG9S": {
+   "name": "Filee",
+   "url": "https://github.com/KnifeLemon/Filee",
+   "install": ""
+  },
+  "DgF0EppARb7": {
+   "name": "firecrawl",
+   "url": "https://github.com/firecrawl/firecrawl",
+   "install": "cargo install firecrawl-local"
+  },
+  "Df752n1FQBr": {
+   "name": "graphify",
+   "url": "https://github.com/Graphify-Labs/graphify",
+   "install": "uv tool install graphifyy && graphify install"
+  },
+  "DfvC_GcErqO": {
+   "name": "hallmark",
+   "url": "https://github.com/Nutlope/hallmark",
+   "install": "npx skills add nutlope/hallmark -g"
+  },
+  "DfvB-ytl86j": {
+   "name": "hyperframes",
+   "url": "https://github.com/heygen-com/hyperframes",
+   "install": ""
+  },
+  "Dfp6qCkkiDc": {
+   "name": "impeccable",
+   "url": "https://github.com/pbakaus/impeccable",
+   "install": "npx impeccable install"
+  },
+  "DgBETyvjUIV": {
+   "name": "last30days",
+   "url": "https://github.com/mvanhorn/last30days-skill",
+   "install": "npx skills add mvanhorn/last30days-skill -g"
+  },
+  "Df0Moc9Ervj": {
+   "name": "magpie",
+   "url": "https://github.com/yetone/magpie",
+   "install": "curl -fsSL https://usemagpie.ai/install.sh | sh"
+  },
+  "DfnZ1b6EUHy": {
+   "name": "skills",
+   "url": "https://github.com/mattpocock/skills",
+   "install": "claude plugin install mattpocock-skills@claude-plugins-official"
+  },
+  "Df5WGf0iN_z": {
+   "name": "open-code-review",
+   "url": "https://github.com/alibaba/open-code-review",
+   "install": "npm install -g @alibaba-group/open-code-review"
+  },
+  "Df5VELAkt5m": {
+   "name": "orca",
+   "url": "https://github.com/stablyai/orca",
+   "install": "brew install --cask stablyai/orca/orca"
+  },
+  "Df-es5sGUNQ": {
+   "name": "ponytail",
+   "url": "https://github.com/DietrichGebert/ponytail",
+   "install": ""
+  },
+  "Df0Lc5MjTNX": {
+   "name": "Scrapling",
+   "url": "https://github.com/D4Vinci/Scrapling",
+   "install": "pip install \"scrapling[fetchers]\" && scrapling install"
+  },
+  "DfxmpAvCBNN": {
+   "name": "security-audit-skill",
+   "url": "https://github.com/cloudflare/security-audit-skill",
+   "install": "npx skills add https://github.com/cloudflare/security-audit-skill --skill security-audit"
+  },
+  "Df-furmDMIx": {
+   "name": "superpowers",
+   "url": "https://github.com/obra/superpowers",
+   "install": "/plugin install superpowers@claude-plugins-official"
+  },
+  "Dfs4VVpAeR-": {
+   "name": "t3code",
+   "url": "https://github.com/pingdotgg/t3code",
+   "install": "curl -fsSL https://t3.codes/install.sh | sh"
+  }
+ }
+}

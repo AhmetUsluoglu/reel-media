@@ -20,6 +20,11 @@
    "url": "https://github.com/mvanhorn/last30days-skill",
    "install": "npx skills add mvanhorn/last30days-skill -g"
   },
+  "22": {
+   "name": "minimind",
+   "url": "https://github.com/jingyaogong/minimind",
+   "install": "git clone --depth 1 https://github.com/jingyaogong/minimind"
+  },
   "14": {
    "name": "open-code-review",
    "url": "https://github.com/alibaba/open-code-review",

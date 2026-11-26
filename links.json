@@ -1,5 +1,10 @@
 {
  "by_n": {
+  "23": {
+   "name": "AFFiNE",
+   "url": "https://github.com/toeverything/AFFiNE",
+   "install": "docker compose up -d (compose file from the AFFiNE releases) or the desktop app at affine.pro/download"
+  },
   "16": {
    "name": "craft-anything",
    "url": "https://github.com/storytold/craft-anything",
@@ -19,6 +24,11 @@
    "name": "last30days",
    "url": "https://github.com/mvanhorn/last30days-skill",
    "install": "npx skills add mvanhorn/last30days-skill -g"
+  },
+  "22": {
+   "name": "minimind",
+   "url": "https://github.com/jingyaogong/minimind",
+   "install": "git clone --depth 1 https://github.com/jingyaogong/minimind"
   },
   "14": {
    "name": "open-code-review",
@@ -101,6 +111,11 @@
    "name": "skills",
    "url": "https://github.com/mattpocock/skills",
    "install": "claude plugin install mattpocock-skills@claude-plugins-official"
+  },
+  "DgLXjDcCaJX": {
+   "name": "minimind",
+   "url": "https://github.com/jingyaogong/minimind",
+   "install": "git clone --depth 1 https://github.com/jingyaogong/minimind"
   },
   "Df5WGf0iN_z": {
    "name": "open-code-review",

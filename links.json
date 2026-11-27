@@ -15,6 +15,11 @@
    "url": "https://github.com/cathrynlavery/diagram-design",
    "install": "npx skills add cathrynlavery/diagram-design"
   },
+  "25": {
+   "name": "ECC",
+   "url": "https://github.com/affaan-m/ECC",
+   "install": "npx ecc-universal@2.2.3 setup (or in Claude Code: /plugin marketplace add https://github.com/affaan-m/ECC then /plugin install ecc@ecc)"
+  },
   "20": {
    "name": "firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
@@ -161,6 +166,11 @@
    "name": "t3code",
    "url": "https://github.com/pingdotgg/t3code",
    "install": "curl -fsSL https://t3.codes/install.sh | sh"
+  },
+  "DgQYy9FtADD": {
+   "name": "unslop",
+   "url": "https://github.com/heydamir/unslop",
+   "install": "claude plugin install unslop --marketplace heydamir/unslop"
   }
  }
 }

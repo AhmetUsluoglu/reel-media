@@ -39,9 +39,19 @@
    "name": "superpowers",
    "url": "https://github.com/obra/superpowers",
    "install": "/plugin install superpowers@claude-plugins-official"
+  },
+  "24": {
+   "name": "unslop",
+   "url": "https://github.com/heydamir/unslop",
+   "install": "claude plugin install unslop --marketplace heydamir/unslop"
   }
  },
  "by_code": {
+  "DgN8gqpgv7N": {
+   "name": "AFFiNE",
+   "url": "https://github.com/toeverything/AFFiNE",
+   "install": "docker compose up -d (compose file from the AFFiNE releases) or the desktop app at affine.pro/download"
+  },
   "DfpNzPqhke-": {
    "name": "agent-browser",
    "url": "https://github.com/vercel-labs/agent-browser",
